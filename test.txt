@@ -1,2 +1,2 @@
 created new file
-city:NAME
+city:chennai
